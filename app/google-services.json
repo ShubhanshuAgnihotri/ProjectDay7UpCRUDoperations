@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "352869065991",
+    "firebase_url": "https://testproject-7418f-default-rtdb.firebaseio.com",
+    "project_id": "testproject-7418f",
+    "storage_bucket": "testproject-7418f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352869065991:android:5c2d1b3d39f5feab7651a2",
+        "android_client_info": {
+          "package_name": "com.devdroid.projectday7up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0BSSm4FzR2bSgYDDGfSaYDNZ66-xX2ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
